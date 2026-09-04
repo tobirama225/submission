@@ -1,9 +1,5 @@
 <a id="readme-top"></a>
 
-
-
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/swarm-subnet/swarm/main/swarm/assets/Swarm_2.png" alt="Swarm" width="50%" />
 </p>
